@@ -6,27 +6,40 @@ banner:
     contents: "Learn More"
     url: "#"
 items:
+  - type: heading
+    heading: What we are build upon?
+    contents: What we are build upon?
   - type: highlights
     items_per_row: 3
     items:
-    - title: This Is Important
-      icon: fa-paper-plane
+    - title: Our vision
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Also Important
-      icon: fa-pencil-alt
+        At CerberusGuard Innovations, we envision a digital world where innovation thrives without compromising on security and reliability. 
+        We are passionate about harnessing the power of open-source technologies to build robust systems that empower businesses and organizations.
+    - title: Reliable foundations
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Probably Important
-      icon: fa-wrench
+        We understand that reliability is the cornerstone of any successful endeavor. 
+        Our expert team meticulously designs architectures that stand the test of time, ensuring seamless operations and minimal downtime.
+    - title: Fortified Security
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        In today's interconnected landscape, security is paramount. 
+        CerberusGuard Innovations takes a proactive approach to security by integrating advanced measures into every facet of our solutions. 
+        Your data's safety is our top priority.
+    - title: Open-Source Advantage
+      content: >
+        We believe in the power of collaboration and transparency. 
+        Our solutions are built upon the strength of open-source technologies, fostering innovation, adaptability, and community-driven improvements.
+    - title: Impactful Results 
+      content: >
+        Our client success stories speak for themselves. 
+        From startups to enterprises, CerberusGuard Innovations has enabled businesses to thrive with confidence in their technological infrastructure.
+    - title: Collaborate with Us
+      content: >
+        We invite you to join us in building a future where innovation flourishes within a secure and reliable digital ecosystem. 
+        Let's collaborate to craft solutions that empower your growth and drive success.
   - type: heading
-    heading: A gigantic heading you can use for whatever
-    contents: With a much smaller subtitle hanging out just below it
+    heading: More about our core knowledge.
+    contents: Technologies we love, use and support.
   - type: posts
     #heading: Recent Posts
     content_type: posts
